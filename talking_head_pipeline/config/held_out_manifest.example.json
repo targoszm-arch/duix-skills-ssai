@@ -1,0 +1,1 @@
+{"dataset_id":"consented-portraits-speech-held-out-v1","consent_record":"private://consent-registry/2026-07-held-out-v1","split":"held_out","items":[{"id":"p001_a001","portrait_sha256":"REPLACE_WITH_PORTRAIT_SHA256","speech_sha256":"REPLACE_WITH_SPEECH_SHA256"}]}
